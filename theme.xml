@@ -434,4 +434,40 @@ https://github.com/anthonycaccese/minui-menu-es-de
       <include>./aspect-ratio-5-3-vert.xml</include>
    </aspectRatio>
 
+   <!-- Minimal header for the plain List variant; retain the existing list area. -->
+   <variant name="gamelist-list">
+      <view name="gamelist">
+         <image name="gamelist-header-bar">
+            <origin>0 0</origin>
+            <pos>0 0</pos>
+            <size>1 0.065</size>
+            <path>${spacerImage}</path>
+            <color>${helpsystemBackgroundColor}</color>
+            <zIndex>39</zIndex>
+         </image>
+         <text name="view-name">
+            <origin>0.5 0.5</origin>
+            <pos>0.5 0.0325</pos>
+            <size>0.9 ${systemStatusHeight}</size>
+            <text>${system.fullName}</text>
+            <fontPath>${textlistFont}</fontPath>
+            <fontSize>${systemStatusHeight}</fontSize>
+            <horizontalAlignment>center</horizontalAlignment>
+            <verticalAlignment>center</verticalAlignment>
+            <letterCase>none</letterCase>
+            <color>${helpsystemTextColor}</color>
+            <zIndex>40</zIndex>
+         </text>
+      </view>
+      <aspectRatio name="5:3_vertical">
+         <view name="gamelist">
+            <text name="view-name">
+               <origin>0 0.5</origin>
+               <pos>0.10416667 0.0325</pos>
+               <size>0.6 ${systemStatusHeight}</size>
+            </text>
+         </view>
+      </aspectRatio>
+   </variant>
+
 </theme>
