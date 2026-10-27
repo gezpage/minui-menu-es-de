@@ -451,7 +451,7 @@ https://github.com/anthonycaccese/minui-menu-es-de
          <text name="view-name">
             <origin>0.5 0.5</origin>
             <pos>0.5 0.0325</pos>
-            <size>0.9 ${systemStatusHeight}</size>
+            <size>0.42 ${systemStatusHeight}</size>
             <text>${system.fullName}</text>
             <fontPath>${textlistFont}</fontPath>
             <fontSize>${systemStatusHeight}</fontSize>
@@ -461,14 +461,28 @@ https://github.com/anthonycaccese/minui-menu-es-de
             <color>${helpsystemTextColor}</color>
             <zIndex>40</zIndex>
          </text>
+         <gamelistinfo name="gamelist-header-count">
+            <origin>1 0.5</origin>
+            <pos>0.95 0.0325</pos>
+            <size>0.22 ${systemStatusHeight}</size>
+            <fontPath>${textlistFont}</fontPath>
+            <fontSize>${systemStatusHeight}</fontSize>
+            <horizontalAlignment>right</horizontalAlignment>
+            <verticalAlignment>center</verticalAlignment>
+            <color>${helpsystemTextColor}</color>
+            <zIndex>40</zIndex>
+         </gamelistinfo>
       </view>
       <aspectRatio name="5:3_vertical">
          <view name="gamelist">
             <text name="view-name">
                <origin>0 0.5</origin>
                <pos>0.10416667 0.0325</pos>
-               <size>0.6 ${systemStatusHeight}</size>
+               <size>0.4 ${systemStatusHeight}</size>
             </text>
+            <gamelistinfo name="gamelist-header-count">
+               <size>0.4 ${systemStatusHeight}</size>
+            </gamelistinfo>
          </view>
       </aspectRatio>
    </variant>
