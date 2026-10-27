@@ -437,6 +437,9 @@ https://github.com/anthonycaccese/minui-menu-es-de
    <!-- Minimal header for the plain List variant; retain the existing list area. -->
    <variant name="gamelist-list">
       <view name="gamelist">
+         <textlist name="item-list">
+            <systemNameSuffix>true</systemNameSuffix>
+         </textlist>
          <image name="gamelist-header-bar">
             <origin>0 0</origin>
             <pos>0 0</pos>
