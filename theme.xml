@@ -176,7 +176,7 @@ https://github.com/anthonycaccese/minui-menu-es-de
       <variables>
          <systemStatusHeight>0.033333333333333</systemStatusHeight><!-- 16 -->
          <listFontSize>0.033333333333333</listFontSize><!-- 16 -->
-         <listLineSpacing>2.2</listLineSpacing>
+         <listLineSpacing>1.98</listLineSpacing>
          <helpsystemFontSize>0.033333333333333</helpsystemFontSize><!-- 16 -->
       </variables>
    </fontSize>
@@ -186,7 +186,7 @@ https://github.com/anthonycaccese/minui-menu-es-de
       <variables>
          <systemStatusHeight>0.033333333333333</systemStatusHeight><!-- 16 -->
          <listFontSize>0.041666666666667</listFontSize><!-- 20 -->
-         <listLineSpacing>1.9615</listLineSpacing>
+         <listLineSpacing>1.76535</listLineSpacing>
          <helpsystemFontSize>0.041666666666667</helpsystemFontSize><!-- 20 -->
       </variables>
    </fontSize>
@@ -196,7 +196,7 @@ https://github.com/anthonycaccese/minui-menu-es-de
       <variables>
          <systemStatusHeight>0.04166667</systemStatusHeight><!-- 20 -->
          <listFontSize>0.05</listFontSize><!-- 24 -->
-         <listLineSpacing>1.84583333</listLineSpacing>
+         <listLineSpacing>1.66125</listLineSpacing>
          <helpsystemFontSize>0.05</helpsystemFontSize><!-- 24 -->
       </variables>
    </fontSize>
@@ -206,7 +206,7 @@ https://github.com/anthonycaccese/minui-menu-es-de
       <variables>
          <systemStatusHeight>0.05</systemStatusHeight><!-- 24 -->
          <listFontSize>0.058333333333333</listFontSize><!-- 28 -->
-         <listLineSpacing>1.81428571</listLineSpacing>
+         <listLineSpacing>1.63285714</listLineSpacing>
          <helpsystemFontSize>0.058333333333333</helpsystemFontSize><!-- 28 -->
       </variables>
    </fontSize>
@@ -216,7 +216,7 @@ https://github.com/anthonycaccese/minui-menu-es-de
       <variables>
          <systemStatusHeight>0.058333333333333</systemStatusHeight><!-- 28 -->
          <listFontSize>0.066666666666667</listFontSize><!-- 32 -->
-         <listLineSpacing>1.86875</listLineSpacing>
+         <listLineSpacing>1.681875</listLineSpacing>
          <helpsystemFontSize>0.066666666666667</helpsystemFontSize><!-- 32 -->
       </variables>
    </fontSize>
