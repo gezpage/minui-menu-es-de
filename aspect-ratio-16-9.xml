@@ -120,7 +120,7 @@ based on 853x480
       <textlist name="
          item-list
          ">
-         <size>0.892145369284877 0.733333333333333</size><!-- 761 352 -->
+         <size>0.892145369284877 0.770833333333333</size><!-- 761 370 -->
       </textlist>
    </view>
 
@@ -138,7 +138,7 @@ based on 853x480
          <textlist name="
             item-list
             ">
-            <size>0.892145369284877 0.733333333333333</size><!-- 761 352 -->
+            <size>0.892145369284877 0.770833333333333</size><!-- 761 370 -->
          </textlist>
       </view>
    </variant>
@@ -152,13 +152,13 @@ based on 853x480
       ">
       <fontSize name="x-small,small,medium">
          <variables>
-            <itemListSize>0.4091442 0.733333333333333</itemListSize><!-- 349 352 -->
+            <itemListSize>0.4091442 0.770833333333333</itemListSize><!-- 349 370 -->
             <gameArtSize>0.41031653 0.60416667</gameArtSize><!-- 350 290 -->
          </variables>
       </fontSize>
       <fontSize name="large,x-large">
          <variables>
-            <itemListSize>0.5052755 0.733333333333333</itemListSize><!-- 431 352 -->
+            <itemListSize>0.5052755 0.770833333333333</itemListSize><!-- 431 370 -->
             <gameArtSize>0.31652989 0.60416667</gameArtSize><!-- 270 290 -->
          </variables>
       </fontSize>

@@ -120,7 +120,7 @@ based on 640x480
       <textlist name="
          item-list
          ">
-         <size>0.85625 0.733333333333333</size><!-- 548 352 -->
+         <size>0.85625 0.770833333333333</size><!-- 548 370 -->
       </textlist>
    </view>
 
@@ -139,7 +139,7 @@ based on 640x480
          <textlist name="
             item-list
             ">
-            <size>0.85625 0.733333333333333</size><!-- 548 352 -->
+            <size>0.85625 0.770833333333333</size><!-- 548 370 -->
          </textlist>
       </view>
    </variant>
@@ -157,7 +157,7 @@ based on 640x480
          <textlist name="
             item-list
             ">
-            <size>0.4 0.733333333333333</size><!-- 256 352 -->
+            <size>0.4 0.770833333333333</size><!-- 256 370 -->
          </textlist>
          <video name="
             game-art
