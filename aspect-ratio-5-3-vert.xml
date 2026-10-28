@@ -30,7 +30,7 @@ based on 288x480
          item-list
          ">
          <origin>0 1</origin>
-         <pos>0.10416667 0.87083333</pos><!-- 30 418 -->
+         <pos>0.10416667 1</pos><!-- 30 480 -->
          <selectedBackgroundMargins>0.03472222 0.03472222</selectedBackgroundMargins><!-- 10 10 -->
       </textlist>
       <helpsystem name="
@@ -138,7 +138,7 @@ based on 288x480
       <textlist name="
          item-list
          ">
-         <size>0.79166667 0.70416667</size><!-- 228 338 -->
+         <size>0.79166667 0.83333334</size><!-- 228 400 -->
       </textlist>
    </view>
 
@@ -166,7 +166,7 @@ based on 288x480
          <textlist name="
             item-list
             ">
-            <size>0.79166667 0.70416667</size><!-- 228 338 -->
+            <size>0.79166667 0.83333334</size><!-- 228 400 -->
          </textlist>
       </view>
    </variant>
@@ -185,8 +185,8 @@ based on 288x480
          <textlist name="
             item-list
             ">
-            <pos>0.10416667 0.87291667</pos><!-- 30 419 -->
-            <size>0.79166667 0.47916667</size><!-- 228 230 -->
+            <pos>0.10416667 1</pos><!-- 30 480 -->
+            <size>0.79166667 0.60625</size><!-- 228 291 -->
          </textlist>
          <video name="
             game-art
